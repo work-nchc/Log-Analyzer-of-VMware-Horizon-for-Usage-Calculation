@@ -41,7 +41,7 @@ Parse the filtered log.  A initial vdi state file can be delivered.  There will 
 
 Four files will present after running this script, a .csv report with login/out data, a .err error file logging insufficient or inconsistent data, a .sav state file, and an entitlement.csv recording the entitlements of the users.
 
-The following is the format of the state file:
+The following is the format of the state file (all elements seperated by tabs \t):
 
 ```
 pools_enabled	pool_1	pool_2	...
