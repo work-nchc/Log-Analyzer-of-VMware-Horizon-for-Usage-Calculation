@@ -29,6 +29,7 @@ BROKER_MACHINE_OPERATION_DELETED
 (MODIFY: desktopSettings.enabled = false)
 ```
 
+---
 Log Parsing:
 
 ```
@@ -58,6 +59,7 @@ vdi	id_vm2	name_vm2	pool_vm2	sid_2	username_2	timestamp_2
 ...
 ```
 
+---
 Usage Calculation:
 
 ```
