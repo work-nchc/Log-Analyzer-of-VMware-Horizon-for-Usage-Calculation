@@ -2,6 +2,7 @@
 
 Tested in Python 3.6
 
+---
 Log Filtering:
 
 ```
