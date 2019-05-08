@@ -72,6 +72,17 @@ Calculate the vdi usage from [report.csv].  A csv file with cores per desktop da
 A .usage file listing the usage consumed by each user will present after running this script.  If there is a record of which begin time later than its end time, it will be printed on the standard output.
 
 ---
+Usage Sorting:
+
+```
+PATH/TO/python.exe sort_usage.py [filtered.usage accounts.txt output.csv]
+```
+
+Sort the vdi usage from [report.csv].  A csv file with cores per desktop data can be delivered.  There will be an input dialogue if arguments are absent.
+
+A .usage file listing the usage consumed by each user will present after running this script.  If there is a record of which begin time later than its end time, it will be printed on the standard output.
+
+---
 [More about the events in VMware Horizon](https://docs.vmware.com/en/VMware-Horizon-7/7.7/horizon-integration/GUID-27B7E9C6-DEE4-4E0D-BA65-41C5DB06EF0E.html)
 
 2019-03-05 by 1803031@narlabs.org.tw
