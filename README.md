@@ -84,4 +84,5 @@ Sort the vdi usage in [filtered.usage] based on [accounts.txt], one username per
 [More about the events in VMware Horizon](https://docs.vmware.com/en/VMware-Horizon-7/7.7/horizon-integration/GUID-27B7E9C6-DEE4-4E0D-BA65-41C5DB06EF0E.html)
 
 2019-03-05 by 1803031@narlabs.org.tw
+
 2019-05-08 last update
