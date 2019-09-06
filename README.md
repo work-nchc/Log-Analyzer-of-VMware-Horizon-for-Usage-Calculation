@@ -39,7 +39,7 @@ PATH/TO/python.exe parser_logs.py [filtered.log [state.sav]]
 
 Parse the filtered log.  A initial vdi state file can be delivered.  There will be an input dialogue if arguments are absent.
 
-Four files will present after running this script, a .csv report with login/out data, a .err error file logging insufficient or inconsistent data, a .sav state file, and an entitlement.csv recording the entitlements of the users.
+4 files will present after running this script, a .csv report with login/out data, a .err error file logging insufficient or inconsistent data, a .sav state file, and an entitlement.csv recording the entitlements of the users.
 
 The following is the format of the state file (all elements seperated by tabs \t):
 
