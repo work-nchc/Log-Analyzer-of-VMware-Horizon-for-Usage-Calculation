@@ -69,7 +69,7 @@ PATH/TO/python.exe usage_vdi.py [report.csv [CPD file]]
 
 Calculate the vdi usage from [report.csv].  A csv file with cores per desktop data can be delivered.  There will be an input dialogue if arguments are absent.
 
-A .usage file listing the usage consumed by each user will present after running this script.  If there is a record of which begin time later than its end time, it will be printed on the standard output.
+A .usage file listing the usage consumed by each user will present after running this script.  If there is a record of which beginning time later than its ending time, it will be printed on the standard output.
 
 ---
 Usage Sorting:
